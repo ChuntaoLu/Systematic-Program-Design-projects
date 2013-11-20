@@ -1,3 +1,4 @@
 *~
 *.log
 *.swap
+.DS_Store
